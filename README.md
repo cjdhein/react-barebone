@@ -13,4 +13,8 @@ __Included are__
 
 Run ```npm start``` within the root folder. The main entry file is ```app/main.js```.
 
+
+inspired by (the ultimate webpack setup)[http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup]
+
+
 ## WTFPL License
